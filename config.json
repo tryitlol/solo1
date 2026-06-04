@@ -1,0 +1,10 @@
+{
+  "bot_token": "8998452579:AAEVk4wWYcCP3kTiXLD746hWNbq9S6-RIeU",
+  "admin_ids": [
+    7675369659
+  ],
+  "channel_username": "yatofeedbacks",
+  "default_threads": 50,
+  "max_concurrent": 1,
+  "cooldown_minutes": 30
+}
